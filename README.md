@@ -1,2 +1,2 @@
 # ishop_app
-ishop app is eCommerce App
+iShop App is a eCommerce App

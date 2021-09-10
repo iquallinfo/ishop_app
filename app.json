@@ -1,0 +1,12 @@
+{
+  "name": "IShop",
+  "displayName": "IShop",
+  "expo": {
+    "name": "IShop",
+    "slug": "IShop",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
